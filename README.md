@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leenaadevi
-- 👀 I’m interested in  pyhon
+- 👀 I’m interested in  python
 - 🌱 I’m currently learning   information technology
 
 
