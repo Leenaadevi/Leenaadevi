@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leenaadevi
-- 👀 I’m interested in  python
-- 🌱 I’m currently learning   information technology
+- 👀 I’m interested in Python
+- 🌱 I’m currently pursuing B.tech information technology
 
 
 
