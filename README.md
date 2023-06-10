@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Leenaadevi
-- 👀 I’m interested in Python
+- 👀 I'm a student
 - 🌱 I’m currently pursuing B.tech information technology
+- I'm interested in c & python
 
 
 
