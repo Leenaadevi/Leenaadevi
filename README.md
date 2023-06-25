@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Leenaadevi
 - 👀 I'm a student
 - 🌱 I’m currently pursuing B.tech information technology
-- I'm interested in c & python
+- I'm interested in c & java programming languages
+- I'm interested in Cloud Computing
 
 
 
